@@ -1,0 +1,30 @@
+- **macroeconomics** #definition
+	- how the economy works on an aggregate scale
+- **recession** #definition
+	- when there is a substantial lower demand for goods overall
+- **government stimulus** #definition
+	- increased demand of goods by the government
+- **stock variable** #definition
+	- measures a quantity at a point in time
+- **flow variable** #definition
+	- measures quantities over a period of time
+- **gross domestic product (GDP)** #definition
+	- how much goods and services a country produces per year (after accounting for depreciation?)
+	- *real* GDP accounts for inflation i.e. measured in goods instead of currency
+- **exogenous variable** #definition
+	- variable determined outside of the model (*input*)
+- **endogenous variable** #definition
+	- variable determined in the model (*output*)
+- **market clearing** #definition
+	- an assumption that prices are *flexible* and adjust to supply and demand
+	- this occurs in the *long run*
+- **sticky prices** #definition
+	- an assumption that prices adjust sluggishly to supply and demand
+	- this occurs in the *short run*
+	- e.g. magazines changing prices every 3 to 4 years
+- ## Example of a Model
+	- Competitive (buyers and sellers are *price-takers*) car market
+	- *Demand equation*: $Q_d = D(P, Y)$
+		- Quantity of demand is related to the price of cars and the aggregate income of the consumer
+		- Depending on whether you are the market or the consumer either *Y* or *P* will be *exogenous*; the other will be *dertermined*
+		- {{renderer excalidraw, excalidraw-2024-02-05-09-53-57}}

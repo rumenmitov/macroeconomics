@@ -1,0 +1,36 @@
+- **gross domestic product (GDP)** #definition
+	- total expenditure on domestically produced final goods and services
+	- total income earned by domestically located factors of production
+	- NOTE: income = expenditure $\implies$ dollar spent by buyer is income to consumer
+	- NOTE: scarcity is not measured in GDP
+- # Circular Flow
+	- {{renderer excalidraw, excalidraw-2024-02-05-10-26-39}}
+- # GDP
+	- **value added** #formula
+		- $\text{value added} = \text{value of output} - \text{value of input goods}$
+		- NOTE: Input goods can only be goods! Labor is not included.
+		- NOTE: $\text{value of output} = \text{revenue}$
+	- **GDP** #formula
+		- GDP = final value of output = $\Sigma$ value added of each step in production of output = expenditure of consumer for output
+	- **GDP identity** #formula
+	- $Y = C + I + G + NX$,
+		- *Y* = value of total output (GDP)
+		- *C* = consumption
+		- *I* = investments
+		- *G* = government spending
+		- *NX* = net exports
+	- **consumption** #definition
+		- the value of all goods and services???
+		- *durable goods*
+		- *non-durable goods*
+		- *services*
+	- **investments** #definition
+		- spending on capital, a physical asset used in future production
+		- *business fixed investment* (i.e. equipment)
+		- *residential fixed investment* (i.e. housing units)
+		- *inventory investment* (i.e. the change in the value of all firms' inventories)
+	- **government spending (consumption)** #definition
+		- government spending *only* on goods and services
+		- NOTE: Does not include *transfer payments* (e.g. unemployment insurance payments)
+	- **net exports** #definition
+		-

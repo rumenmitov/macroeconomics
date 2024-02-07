@@ -20,7 +20,7 @@
 		- *G* = government spending
 		- *NX* = net exports
 	- **consumption** #definition
-		- the value of all goods and services???
+		- the value of all goods and services brought by households
 		- *durable goods*
 		- *non-durable goods*
 		- *services*
@@ -32,5 +32,10 @@
 	- **government spending (consumption)** #definition
 		- government spending *only* on goods and services
 		- NOTE: Does not include *transfer payments* (e.g. unemployment insurance payments)
-	- **net exports** #definition
-		-
+	- **net exports** #definition #formula
+		- *exports* is the value of goods and services sold to other countries
+		- *imports* is the value of goods and services purchased from other countries
+		- $\text{net exports} = \text{exports} - \text{imports}$
+		- #+BEGIN_PINNED
+		  *Trade deficit* (i.e. net exports < 0) does not reduce GDP, because the imports are subtracted from domestic spending.
+		  #+END_PINNED

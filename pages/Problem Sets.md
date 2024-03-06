@@ -1,6 +1,6 @@
 - ![Problem Sets Ch1 to Ch10.pdf](../assets/B_Problem_Sets_Ch1_to_Ch10_1707287276959_0.pdf)
 	- ## Chapter 1
-		- Macroeconomics deals with the economy on an aggregate level, while microeconomics focuses on single markets. They are related in that they try to understand how the economy works.
+		- Macroeconomics deals with the economy on an aggregate level, while microeconomics focuses on single markets. They are related in that they both depend on the market clearing model.
 		  logseq.order-list-type:: number
 		- Economists build models to simplify the world so that they can test potential policies.
 		  logseq.order-list-type:: number
@@ -47,8 +47,13 @@
 		  logseq.order-list-type:: number
 		- .
 		  logseq.order-list-type:: number
-		- .
+		- a) 
 		  logseq.order-list-type:: number
+		      nominal GDP(2010) = 200*2 + 200*3 = 1000
+		      nominal GDP(2020) = 250*4 + 500*4 = 3000
+		      real GDP(2020) = 250*2 + 500*3 = 2000
+		      GDP deflator = 3000 / 2000 = 1.5
+		      CPI(2020) = Lapayers(not mentioned) = 1.6
 		- Farmer adds $1. Miller adds $2. Baker adds $3. Total GDP of the bread is $6.
 		  logseq.order-list-type:: number
 		- .

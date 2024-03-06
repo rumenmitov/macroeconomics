@@ -1,5 +1,13 @@
+- **microeconomics** #definition
+	- how individual firms and households make decisions and interact with each other
 - **macroeconomics** #definition
 	- how the economy works on an aggregate scale
+- **demand** #definition
+	- quantity of a good or service that people are willing to buy at a certain price
+- **supply** #definition
+	- quantity of a good or service that people are willing to sell at a certain price
+- **model** #definition
+	- a simplified representation of the real world
 - **recession** #definition
 	- when there is a substantial lower demand for goods overall
 - **government stimulus** #definition
@@ -9,7 +17,7 @@
 - **flow variable** #definition
 	- measures quantities over a period of time
 - **gross domestic product (GDP)** #definition
-	- how much goods and services a country produces per year (after accounting for depreciation?)
+	- how much goods and services a country produces per year (after accounting for depreciation)
 	- *real* GDP accounts for inflation i.e. measured in goods instead of currency
 - **exogenous variable** #definition
 	- variable determined outside of the model (*input*)
@@ -22,6 +30,10 @@
 	- an assumption that prices adjust sluggishly to supply and demand
 	- this occurs in the *short run*
 	- e.g. magazines changing prices every 3 to 4 years
+- **monetary policy** #definition
+	- the process through which the central bank controls the money supply and the interest rates in the economy
+- **federal funds rate** #definition
+	- the interest rate which banks can borrow and lend in the federal reserve system
 - ## Example of a Model
 	- Competitive (buyers and sellers are *price-takers*) car market
 	- *Demand equation*: $Q_d = D(P, Y)$

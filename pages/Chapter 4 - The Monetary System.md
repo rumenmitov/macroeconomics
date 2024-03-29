@@ -90,8 +90,7 @@
 		- Central banks control B, but not m
 		- m = $\frac{cr + 1}{cr + rr}$
 		- m > 1 because rr < 1
-		-
-	- TODO \Delta cr impacts on m and M
+	- When *cr* increases, numerator increases _mores
 - # Instruments of Monetary Policy
 	- *Open-market operations*
 	- **discount rate** #definition

@@ -89,6 +89,7 @@
 		- will be larger than 1, because rr < 1
 		- M = m \times B
 		- Central banks control B, but not m
+		- M =
 	- TODO \Delta cr impacts on m and M
 - # Instruments of Monetary Policy
 	- *Open-market operations*

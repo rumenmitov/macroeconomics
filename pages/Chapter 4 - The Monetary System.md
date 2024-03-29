@@ -39,8 +39,8 @@
 		- D = 0 (i.e. no deposits)
 		- M = C remains constant
 	- ## Scenario 2: 100-percent Reserve Banking
-		- C = 0
-		-
+		- C = 0 (money is kept in deposits)
+		- D = C
 		- Money supply remains *constant*
 	- ## Scenario 3: Fractional-Reserve Banking
 		- Keeps certain percentage of deposits as reserves, loans out rest

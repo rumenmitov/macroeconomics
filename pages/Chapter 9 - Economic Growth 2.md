@@ -1,0 +1,10 @@
+- $\frac{\Delta L}{L} = n$
+- $\Delta k = s \cdot f(k) - (\delta + n) \cdot k$
+	- $(\delta + n)$ is the *break-even state*
+- # Efficiency
+	- $g = \frac{\Delta E}{E}$
+		- *E* is the efficiency
+	- **Labor Augmenting Production Function** #formula
+		- Y = F(K, L \times E)
+	-
+	-

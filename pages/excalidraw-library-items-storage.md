@@ -1,0 +1,8 @@
+excalidraw-plugin-library:: true
+
+- #+BEGIN_IMPORTANT
+  This file is used to store excalidraw information, Please do not manually edit this file.
+  #+END_IMPORTANT
+- ```json
+  [{"status":"unpublished","elements":[{"type":"line","version":67,"versionNonce":1940324579,"isDeleted":false,"id":"_ojTehXsIujMLPe2OvuT7","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":372.2088317871094,"y":138.97033309936523,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":0,"height":440.9593963623047,"seed":1064723875,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1708269589458,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[0,440.9593963623047]]},{"type":"line","version":131,"versionNonce":1549449155,"isDeleted":false,"id":"5cAcA9B93pvnkp_FIvwrD","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":370.6612243652344,"y":581.3026542663574,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":542.4699401855469,"height":0,"seed":1297764653,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1708269596725,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[542.4699401855469,0]]}],"id":"mr6dU4lHP4wuIjHGVSSNq","created":1708269602834}]
+  ```

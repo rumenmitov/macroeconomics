@@ -1,0 +1,100 @@
+- **money** #definition
+	- the stock of assets that can be readily used to make transactions
+	- store of value (transfer purchasing power to future)
+	- unit of account (everyone uses it to measure value)
+- # Types of Money
+	- **commodity money** #definition
+		- has intrinsic value
+		- e.g. gold, wheat, etc.
+	- **fiat money** #definition
+		- has no intrinsic value
+		- e.g. paper currency issued by government
+	- #+BEGIN_NOTE
+	  Credit cards and checks are not money, they are just the borrowing of funds from the bank. 
+	  #+END_NOTE
+	- **M1** #definition
+		- type of money supply that includes currency and deposits
+		- cannot be controlled by the *central bank*
+- **money supply, M** #definition #formula
+	- the quantity of money available on the market
+	- M = C + D
+		- *C* is the currency
+		- *D* is the deposits
+- **monetary policy** #definition
+	- control over *money supply*
+- **money demand** #definition
+	- how much money households want to hold
+- **central bank** #definition
+	- controls *monetary policy*
+- **open-market operations** #definition
+	- the purchase and sale of government bonds to control *money supply*
+- # Banking
+	- **reserves (R)** #definition
+		- the portion of deposits that banks have not lent out
+	- **100-percent-reserve banking** #definition
+		- a system in which banks hold all deposits as reserves
+	- **fractional-reserve banking** #definition
+		- a system in which banks hold a fraction of their deposits as reserves
+	- ## Scenario 1: No Banks
+		- TODO impl this
+		- C = 0, D = 0, M = 0
+	- ## Scenario 2: 100-percent Reserve Banking
+		- Money supply remains *constant*
+	- ## Scenario 3: Fractional-Reserve Banking
+		- Keeps certain percentage of deposits as reserves, loans out rest
+		- Money supply is *increased* as banks give out loans
+		- **total money supply of fractional-reserve banking** #definition
+			- total money supply = $\frac{1}{rr} \times D_0$
+				- *rr* is the ratio of reserves to deposits
+				- $D_0$ is the initial deposit
+		- #+BEGIN_NOTE
+		  Banks create money, *not wealth*! They just change the ownership of wealth.
+		  #+END_NOTE
+	- **bank capital** #definition #formula
+		- the resources a bank's owners have put into the bank
+		- bank capital = bank assets - bank liabilities
+	- **leverage** #definition
+		- the use of borrowed money to supplement existing funds for purposes of investment
+	- **levervage ration** #formula
+		- $\text{leverage ratio} = \frac{\text{assets}}{\text{capital}}$
+		- higher ratio $\rightarrow$ more profitable $\rightarrow$ higher risk if a bank run happens
+	- **capital requirement** #definition
+		- minimum amount of 1capital mandated by regulators
+		- intended to ensure that banks will be able to pay off depositors
+		- higher for banks that hold more risky assets
+- # Model of Money Supply
+	- #+BEGIN_IMPORTANT
+	  $M = \frac{cr + 1}{cr + rr} \cdot B$
+	  #+END_IMPORTANT
+	- **monetary base, B** #definition #formula
+		- amount of money issued by the *central bank*
+		- B = C + R
+			- *C* is the currency (money held by public)
+			- *R* is the reserves (money held by banks)
+	- **reserve-deposit ratio** #formula
+		- $rr = \frac{R}{D}$
+			- *R* is the reserves
+			- *D* is the deposits
+		- depends on regulations and bank policies
+	- **currency-deposit ratio, cr** #formula
+		- $cr = \frac{C}{D}$
+			- *C* is the currency
+			- *D* is the deposits
+	- **money multiplier, m** #formula
+		- the increase in the money supply from a one-dollar increase in the *monetary base*
+		- this happens when the bank lends the money you put in to other people
+		- $m = \frac{C+D}{B}$
+		- will be larger than 1, because rr < 1
+		- M = m \times B
+		- Central banks control B, but not m
+	- TODO \Delta cr impacts on m and M
+- # Instruments of Monetary Policy
+	- *Open-market operations*
+	- **discount rate** #definition
+		- the interest rate the *central bank* charges on loan on banks
+		- #+BEGIN_NOTE
+		  To ==increase the monetary base==, discount rate could be lowered, encouraging banks to ==loan more==.
+		  #+END_NOTE
+		- **reserve requirements** #definition
+			- regulates the minimum reserve-deposit ratio of banks
+		-

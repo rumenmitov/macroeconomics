@@ -36,8 +36,11 @@
 	- **fractional-reserve banking** #definition
 		- a system in which banks hold a fraction of their deposits as reserves
 	- ## Scenario 1: No Banks
-	-
+		- D = 0 (i.e. no deposits)
+		- M = C remains constant
 	- ## Scenario 2: 100-percent Reserve Banking
+		- C = 0
+		-
 		- Money supply remains *constant*
 	- ## Scenario 3: Fractional-Reserve Banking
 		- Keeps certain percentage of deposits as reserves, loans out rest

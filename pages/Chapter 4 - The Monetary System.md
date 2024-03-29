@@ -59,7 +59,7 @@
 		- $\text{leverage ratio} = \frac{\text{assets}}{\text{capital}}$
 		- higher ratio $\rightarrow$ more profitable $\rightarrow$ higher risk if a bank run happens
 	- **capital requirement** #definition
-		- minimum amount of 1capital mandated by regulators
+		- minimum amount of capital mandated by regulators
 		- intended to ensure that banks will be able to pay off depositors
 		- higher for banks that hold more risky assets
 - # Model of Money Supply

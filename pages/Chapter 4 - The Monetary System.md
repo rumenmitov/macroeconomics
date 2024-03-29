@@ -86,10 +86,11 @@
 		- the increase in the money supply from a one-dollar increase in the *monetary base*
 		- this happens when the bank lends the money you put in to other people
 		- $m = \frac{C+D}{B}$
-		- will be larger than 1, because rr < 1
 		- M = m \times B
 		- Central banks control B, but not m
 		- m = $\frac{cr + 1}{cr + rr}$
+		-
+		-
 	- TODO \Delta cr impacts on m and M
 - # Instruments of Monetary Policy
 	- *Open-market operations*

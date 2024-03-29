@@ -90,7 +90,7 @@
 		- Central banks control B, but not m
 		- m = $\frac{cr + 1}{cr + rr}$
 		- m > 1 because rr < 1
-	- When *cr* increases, numerator (since it is larger) changes at a slower rate than the denominator, resulting in lower m
+	- When **cr** increases, numerator (since it is larger) changes at a slower rate than the denominator, resulting in **lower** m and **lower** M
 - # Instruments of Monetary Policy
 	- *Open-market operations*
 	- **discount rate** #definition

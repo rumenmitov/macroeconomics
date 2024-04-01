@@ -20,4 +20,6 @@
 	  $\implies$ ==net exports = net capital outflow==
 	  #+END_NOTE
 - # Assumptions
+	- Domestic and foreign bonds are perfect substitutes
+	- **Perfect capital mobility** - no restrictions on international trade in assets
 	-

@@ -23,3 +23,4 @@
 	- Domestic and foreign bonds are perfect substitutes
 	- **Perfect capital mobility** - no restrictions on international trade in assets
 	- Economy is small (does not affect global interest rate, denoted r*)
+- Bases on those assumptions ==r = r*==

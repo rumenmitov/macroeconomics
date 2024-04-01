@@ -11,5 +11,6 @@
 - **rate of job finding, f** #definition
 	- fraction of unemployed workers who find jobs
 - #+BEGIN_NOTE
-  We take L, s and f as exogenous
+  We take *L*, *s* and *f* as exogenous.
   #+END_NOTE
+-

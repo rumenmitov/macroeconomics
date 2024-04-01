@@ -24,4 +24,5 @@
 		- $y= c + i \implies$ investment per worker, $i = y - c = sy$ (savings = investment)
 			- $\implies i = s \cdot f(k)$
 	- {{renderer excalidraw, excalidraw-2024-04-01-19-39-21}}
-	-
+	- **rate of depreciation**, $\delta$ #definition
+		- how many of the ma

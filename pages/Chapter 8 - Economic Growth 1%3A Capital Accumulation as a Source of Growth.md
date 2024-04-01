@@ -8,5 +8,6 @@
 		- Output per worker $= y = \frac{Y}{L}$
 		- Capital per worker $= k = \frac{K}{L}$
 		- $zY = F(zK, zL), z = \frac{1}{L} \implies y = F(k, 1) = f(k)$
-		-
+		- Consumption per worker $= c = \frac{C}{L}$
+		- Investment per worker $= i = \frac{}
 	- {{renderer excalidraw, excalidraw-2024-04-01-19-22-20}}

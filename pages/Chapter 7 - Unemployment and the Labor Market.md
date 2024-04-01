@@ -14,4 +14,5 @@
   We take *L*, *s* and *f* as exogenous.
   #+END_NOTE
 - **steady-state** #definition #formula
-	-
+	- when the ==inflows = outflows==, i.e. *unemployment rate* is constant
+	- s \times E = f \times U

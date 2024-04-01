@@ -20,4 +20,5 @@
 	- ## Consumption Function Per Worker
 		- $c = y(1-s)$
 	- ## Saving and Investment Functions Per Worker
-		- saving
+		- saving per worker $= y - c = sy$ (substituting consumption function per worker)
+-

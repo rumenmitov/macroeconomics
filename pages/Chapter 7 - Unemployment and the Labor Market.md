@@ -1,7 +1,8 @@
 - **natural rate of unemployment** #definition
 	- average rate of unemployment
-- **workers in labor force, L** #definition
+- **workers in labor force, L** #formula
 	- L = E + U
 		- *E* is employed
 		- *U* is unemployed
--
+- **unemployment rate** #formula
+	- unemployment rate = $\frac{U}{L}$

@@ -45,3 +45,4 @@
 	  #+END_NOTE
 	- ### Transitioning To Golden Rule
 		- {{renderer excalidraw, excalidraw-2024-04-01-20-36-59}}
+-

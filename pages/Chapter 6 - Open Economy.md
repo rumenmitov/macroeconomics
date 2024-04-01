@@ -19,3 +19,5 @@
 	  NX = (Y - C - G) - I = S - I
 	  $\implies$ ==net exports = net capital outflow==
 	  #+END_NOTE
+- # Assumptions
+	-

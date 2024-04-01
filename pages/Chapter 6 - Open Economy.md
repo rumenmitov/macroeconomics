@@ -33,4 +33,5 @@
 		- $ε = \frac{e \times P}{P*}$
 			- *P* is the currency A per good A
 			- *P** is the currency B per good B
-			- if ε increases goods A
+			- if ε increases goods A become more expensive, so:
+				- exports fall and imports fall $ net exports fall

@@ -21,3 +21,6 @@
 	- caused by the time it takes workers to search for a job
 - **sectoral shifts** #definition
 	- changes in the composition of demand among industries or regions
+- #+BEGIN_NOTE
+  
+  #+END_NOTE

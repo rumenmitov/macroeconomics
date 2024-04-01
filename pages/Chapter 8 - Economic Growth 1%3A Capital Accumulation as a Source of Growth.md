@@ -43,4 +43,5 @@
 	- #+BEGIN_NOTE
 	  The economy does not automatically tend to the ==Golden Rule Steady State==. The *saving rate* must be adjusted for it to be reached.
 	  #+END_NOTE
--
+	- ### Transitioning To Golden Rule
+		- {{renderer excalidraw, excalidraw-2024-04-01-20-36-59}}

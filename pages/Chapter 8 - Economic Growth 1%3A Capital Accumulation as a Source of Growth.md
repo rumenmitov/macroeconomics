@@ -17,5 +17,5 @@
 		  $s \neq \frac{S}{L}$
 		  #+END_IMPORTANT
 		- *s* is an ==exogenous== parameter.
-	- ## Consumption
-		-
+	- ## Consumption Function Per Worker
+		- $c = y(1-s)$

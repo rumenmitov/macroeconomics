@@ -34,3 +34,4 @@
 	- #+BEGIN_NOTE
 	  Since ==in the long-run== both sides convert to ==k*==, there is **no growth** in the long-run.
 	  #+END_NOTE
+	- {{renderer excalidraw, excalidraw-2024-04-01-20-17-25}}

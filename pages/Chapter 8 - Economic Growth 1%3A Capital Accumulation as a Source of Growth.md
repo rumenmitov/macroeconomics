@@ -48,4 +48,4 @@
 		- **dynamically inefficient** #definition
 			- economy is operating at k* > k* gold
 		- **dynamically efficient** #definition
-			-
+			- economy is operating at k* < k* gold

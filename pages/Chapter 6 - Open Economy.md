@@ -45,5 +45,5 @@
 - *Purchasing-power parity* does not work in the real world:
 	- Transportation of goods
 	  logseq.order-list-type:: number
-	- Goods A and B can never be perf
+	- Goods A and B are not perfect substitutes
 	  logseq.order-list-type:: number

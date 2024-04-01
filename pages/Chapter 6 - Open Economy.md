@@ -40,3 +40,4 @@
 		- Supply (net exports = net capital outflow) is the ==amount of currency A available to be invested abroad==
 	- **purchasing-power parity** #definition
 		- exact same goods must sell at the same price in all countries
+		- ε = 1 $\implies$ 1 = e \times

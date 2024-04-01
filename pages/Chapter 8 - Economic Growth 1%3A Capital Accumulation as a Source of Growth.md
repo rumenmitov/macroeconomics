@@ -40,4 +40,6 @@
 	  To then achieve the ==c* gold== one must choose the correct *saving rate, s* so
 	  that when k* = δk*,  c* = f(k*) - δk* is biggest.
 	  #+END_NOTE
--
+	- #+BEGIN_NOTE
+	  The economy does not automatically tend to the ==Golden Rule 
+	  #+END_NOTE

@@ -24,3 +24,4 @@
 	- **Perfect capital mobility** - no restrictions on international trade in assets
 	- Economy is small (does not affect global interest rate, denoted r*)
 - Bases on those assumptions ==r = r*==
+- {{renderer excalidraw, excalidraw-2024-04-01-16-03-22}}

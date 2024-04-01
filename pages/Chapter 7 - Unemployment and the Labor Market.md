@@ -17,3 +17,5 @@
 	- when the ==inflows = outflows==, i.e. *unemployment rate* is constant
 	- s \times E = f \times U
 	- $\implies \frac{U}{L} = \frac{s}{s + f}$ (by applying the formulae from above)
+- **frictional unemployment** #definition
+	- caused by the time it takes workers to search for a job

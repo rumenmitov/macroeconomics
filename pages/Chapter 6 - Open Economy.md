@@ -30,4 +30,5 @@
 		- the relative price of domestic currency in terms of foreign currency
 	- **real exchange rate, ε** #definition
 		- the relative price of domestic goods in terms of foreign goods
-		- $ε = \frac{}
+		- $ε = \frac{e \times P}{P*}$
+			- *P* is the  price per

@@ -25,4 +25,5 @@
 			- $\implies i = s \cdot f(k)$
 	- {{renderer excalidraw, excalidraw-2024-04-01-19-39-21}}
 	- **rate of depreciation**, $\delta$ #definition
-		- how many of the ma
+		- how quickly the machinery breaks down
+	- **

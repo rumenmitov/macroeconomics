@@ -26,5 +26,6 @@
 - Bases on those assumptions ==r = r*==
 - {{renderer excalidraw, excalidraw-2024-04-01-16-03-22}}
 - # Currency Exchange
-	- **nominal exchange rate** #definition
-		-
+	- **nominal exchange rate, e** #definition
+		- the relative price of domestic currency in terms of foreign currency
+	- **real exchange rate,

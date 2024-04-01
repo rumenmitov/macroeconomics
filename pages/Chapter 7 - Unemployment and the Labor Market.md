@@ -13,4 +13,5 @@
 - #+BEGIN_NOTE
   We take *L*, *s* and *f* as exogenous.
   #+END_NOTE
--
+- **steady-state** #definition #formula
+	-

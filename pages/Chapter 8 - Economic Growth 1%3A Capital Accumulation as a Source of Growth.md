@@ -31,3 +31,6 @@
 		- $\Delta k = i - \delta k = s \cdot f(k) - \delta k$
 - ## Steady State
 	- {{renderer excalidraw, excalidraw-2024-04-01-19-52-20}}
+	- #+BEGIN_NOTE
+	  Since ==in the long-run== both sides 
+	  #+END_NOTE

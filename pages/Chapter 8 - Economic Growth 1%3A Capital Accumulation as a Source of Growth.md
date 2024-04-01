@@ -21,4 +21,5 @@
 		- $c = y(1-s)$
 	- ## Saving and Investment Functions Per Worker
 		- saving per worker $= y - c = sy$ (substituting consumption function per worker)
--
+		- $y= c + i \implies i = y - c = sy$ (savings = investment)
+		-

@@ -42,4 +42,8 @@
 		- exact same goods must sell at the same price in all countries
 		- ε = 1 $\implies$ e = $\frac{P*}{P}$
 	- {{renderer excalidraw, excalidraw-2024-04-01-16-46-09}}
--
+- *Purchasing-power parity* does not work in the real world:
+	- Transportation of goods
+	  logseq.order-list-type:: number
+	- Goods A and B can never be perf
+	  logseq.order-list-type:: number

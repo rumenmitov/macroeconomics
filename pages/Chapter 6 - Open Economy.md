@@ -38,4 +38,5 @@
 	- {{renderer excalidraw, excalidraw-2024-04-01-16-30-11}}
 		- Demand is the ==need for currency A to buy goods A==
 		- Supply (net exports = net capital outflow) is the ==amount of currency A available to be invested abroad==
-	- **purchasing-power
+	- **purchasing-power parity** #definition
+		- exact same goods must sell at the same price in all countries

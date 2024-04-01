@@ -41,4 +41,4 @@
 	- **purchasing-power parity** #definition
 		- exact same goods must sell at the same price in all countries
 		- ε = 1 $\implies$ e = $\frac{P*}{P}$
-	-
+	- {{renderer excalidraw, excalidraw-2024-04-01-16-46-09}}

@@ -28,4 +28,5 @@
 - # Currency Exchange
 	- **nominal exchange rate, e** #definition
 		- the relative price of domestic currency in terms of foreign currency
-	- **real exchange rate,
+	- **real exchange rate, ε** #definition
+		- the rea

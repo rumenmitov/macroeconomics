@@ -26,4 +26,4 @@
 	- {{renderer excalidraw, excalidraw-2024-04-01-19-39-21}}
 	- **rate of depreciation**, $\delta$ #definition
 		- how quickly the machinery breaks down
-	- **
+	- {{renderer excalidraw, excalidraw-2024-04-01-19-47-04}}

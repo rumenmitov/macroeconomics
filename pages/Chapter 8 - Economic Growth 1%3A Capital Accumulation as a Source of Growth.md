@@ -29,3 +29,4 @@
 	- {{renderer excalidraw, excalidraw-2024-04-01-19-47-04}}
 	- **Capital Accumulation** #formula
 		- $\Delta k = i - \delta k = s \cdot f(k) - \delta k$
+- ## Steady

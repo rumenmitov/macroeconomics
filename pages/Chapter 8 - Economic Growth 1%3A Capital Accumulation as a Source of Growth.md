@@ -2,5 +2,6 @@
 	- ## Assumptions
 		- *K* is not fixed
 		- *L* is not fixed (population growth)
-		- *G
--
+		- *G* = *T* = 0
+	- ## Definitions
+		-

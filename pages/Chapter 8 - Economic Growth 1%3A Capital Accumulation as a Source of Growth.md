@@ -7,4 +7,5 @@
 	- ## Definitions
 		- Output per worker $= y = \frac{Y}{L}$
 		- Capital per worker $= k = \frac{K}{L}$
-		- zY = F(zK, zL), $z = \frac{1}{L} \implies y =
+		- $zY = F(zK, zL), z = \frac{1}{L} \implies y = F(k, 1) = f(k)$
+	-

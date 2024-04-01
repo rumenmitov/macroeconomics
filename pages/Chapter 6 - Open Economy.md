@@ -36,6 +36,6 @@
 			- if ε increases goods A become more expensive, so:
 				- exports fall and imports fall $\implies$ net exports fall
 	- {{renderer excalidraw, excalidraw-2024-04-01-16-30-11}}
-	- Demand is the ==need for currency A to buy goods A==
-	- Supply (net exports = net capital outflow) is the ==amount of currency A available to be invested abroad==
--
+		- Demand is the ==need for currency A to buy goods A==
+		- Supply (net exports = net capital outflow) is the ==amount of currency A available to be invested abroad==
+	- **purchasing-power

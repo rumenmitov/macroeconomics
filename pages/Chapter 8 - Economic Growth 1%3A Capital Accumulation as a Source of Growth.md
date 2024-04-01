@@ -32,5 +32,5 @@
 - ## Steady State
 	- {{renderer excalidraw, excalidraw-2024-04-01-19-52-20}}
 	- #+BEGIN_NOTE
-	  Since ==in the long-run== both sides 
+	  Since ==in the long-run== both sides convert to ==k*==, there is **no growth** in the long-run.
 	  #+END_NOTE

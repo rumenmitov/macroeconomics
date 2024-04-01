@@ -4,4 +4,5 @@
 		- *L* is not fixed (population growth)
 		- *G* = *T* = 0
 	- ## Definitions
+		- Output per worker $= y = \frac{Y}{L}$
 		-

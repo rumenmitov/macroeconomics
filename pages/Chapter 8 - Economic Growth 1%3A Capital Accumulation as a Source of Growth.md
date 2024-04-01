@@ -19,3 +19,4 @@
 		- *s* is an ==exogenous== parameter.
 	- ## Consumption Function Per Worker
 		- $c = y(1-s)$
+	- ## Saving Function Per Worker

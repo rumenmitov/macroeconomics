@@ -16,3 +16,4 @@
 - **steady-state** #definition #formula
 	- when the ==inflows = outflows==, i.e. *unemployment rate* is constant
 	- s \times E = f \times U
+	- $\implies \frac{U}{L} = \frac{s}{s + f}$ (by applying the formulae from above)

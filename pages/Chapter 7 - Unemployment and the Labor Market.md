@@ -6,3 +6,5 @@
 		- *U* is unemployed
 - **unemployment rate** #formula
 	- unemployment rate = $\frac{U}{L}$
+- **rate of job separation, s** #definition
+	-

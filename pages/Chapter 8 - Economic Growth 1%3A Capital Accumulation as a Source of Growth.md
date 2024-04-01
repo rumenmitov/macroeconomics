@@ -36,5 +36,5 @@
 	  #+END_NOTE
 	- {{renderer excalidraw, excalidraw-2024-04-01-20-17-25}}
 	- #+BEGIN_NOTE
-	  Combining this with the consumption per worker function: $c* = f(k*)(1 - s)
+	  Combining this with the consumption per worker function: $c* = f(k*)(1 - s)$
 	  #+END_NOTE

@@ -38,6 +38,6 @@
 	- #+BEGIN_NOTE
 	  Combining this with the consumption per worker function: $c* = f(k*)(1 - s)$.
 	  To then achieve the ==c* gold== one must choose the correct *saving rate, s* so
-	  that when k* = δk* 
+	  that when k* = δk*,  c* = f(k*) - δk* is biggest.
 	  #+END_NOTE
 -

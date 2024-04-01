@@ -1,0 +1,2 @@
+- **natural rate of unemployment** #definition
+	- average rate of unemployment

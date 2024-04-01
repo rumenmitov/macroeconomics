@@ -29,4 +29,5 @@
 	- **nominal exchange rate, e** #definition
 		- the relative price of domestic currency in terms of foreign currency
 	- **real exchange rate, ε** #definition
-		- the rea
+		- the relative price of domestic goods in terms of foreign goods
+		- $ε = \frac{}

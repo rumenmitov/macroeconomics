@@ -19,3 +19,5 @@
 	- $\implies \frac{U}{L} = \frac{s}{s + f}$ (by applying the formulae from above)
 - **frictional unemployment** #definition
 	- caused by the time it takes workers to search for a job
+- **sectoral shifts** #definition
+	- changes in the composition of demand amon

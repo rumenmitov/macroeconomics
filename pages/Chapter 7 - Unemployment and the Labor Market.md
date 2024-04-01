@@ -1,4 +1,7 @@
 - **natural rate of unemployment** #definition
 	- average rate of unemployment
-- **workers in labor force** #definition
-	- employed
+- **workers in labor force, L** #definition
+	- L = E + U
+		- *E* is employed
+		- *U* is unemployed
+-

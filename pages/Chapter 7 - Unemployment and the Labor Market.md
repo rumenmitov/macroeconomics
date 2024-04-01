@@ -22,5 +22,5 @@
 - **sectoral shifts** #definition
 	- changes in the composition of demand among industries or regions
 - #+BEGIN_NOTE
-  
+  Apart from *frictional unemployment*, *real wage rigidity* (i.e. a set wage level, like minimum-wage)is the second cause of long-term unemployment.
   #+END_NOTE

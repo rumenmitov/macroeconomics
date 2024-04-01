@@ -37,6 +37,7 @@
 	- {{renderer excalidraw, excalidraw-2024-04-01-20-17-25}}
 	- #+BEGIN_NOTE
 	  Combining this with the consumption per worker function: $c* = f(k*)(1 - s)$.
-	  T
+	  To then achieve the ==c* gold== one must choose the correct *saving rate, s* so
+	  that when k* = δk* 
 	  #+END_NOTE
 -

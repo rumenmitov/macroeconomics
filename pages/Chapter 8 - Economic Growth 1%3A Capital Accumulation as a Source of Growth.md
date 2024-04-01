@@ -12,4 +12,8 @@
 		- Investment per worker $= i = \frac{I}{L}$
 		- National income per worker $= y = c + i$ (no *G* or *T*)
 	- {{renderer excalidraw, excalidraw-2024-04-01-19-22-20}}
-	-
+	- ## Savings Rate, s
+		- #+BEGIN_IMPORTANT
+		  $s \neq \frac{S}{L}$
+		  #+END_IMPORTANT
+		-

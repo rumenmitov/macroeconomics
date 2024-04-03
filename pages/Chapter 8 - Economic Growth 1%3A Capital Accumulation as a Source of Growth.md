@@ -17,9 +17,10 @@
 		- #+BEGIN_IMPORTANT
 		  $s \neq \frac{S}{L}$
 		  #+END_IMPORTANT
-		- *(1 - s)* is an ==exogenous== parameter.
+		- *s* is an ==exogenous== parameter.
 	- ## Consumption Function Per Worker
 		- $c = y(1-s)$
+			- (1 - s) is the
 	- ## Saving and Investment Functions Per Worker
 		- saving per worker $= y - c = sy$ (substituting consumption function per worker)
 		- $y= c + i \implies$ investment per worker, $i = y - c = sy$ (savings = investment)

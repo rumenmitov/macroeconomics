@@ -11,7 +11,7 @@
 - **net capital outflow** #definition #formula
 	- net outflow of ==loanable funds==
 	- net capital outflow = S - I
-		- *S* is the national savings
+		- *S* is the national savings = Y - C - G
 		- *I* is the investment
 	- S > I $\implies$ country is a ==net lender==
 	- S < I $\implies$ country is a ==net borrower==

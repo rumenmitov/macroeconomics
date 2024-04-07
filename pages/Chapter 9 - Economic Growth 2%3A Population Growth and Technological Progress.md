@@ -17,10 +17,11 @@
 		  c* is ==maximized== when: $MPK = \delta + n$.
 		  #+END_IMPORTANT
 - # Efficiency
-	- **change of labor efficiency** #formula
+	- **change of labor efficiency, g** #formula
 		- $g = \frac{\Delta E}{E}$
-			- *E* is the efficiency
+			- *E* is the labor efficiency
 	- **Labor Augmenting Production Function** #formula
 		- Y = F(K, L \times E)
+			- L \times E is the number of effective workers
 	-
 	-

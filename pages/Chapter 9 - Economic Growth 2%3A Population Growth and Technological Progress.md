@@ -47,7 +47,8 @@
 		  id:: 6612abec-699f-4aaf-b301-05c7efe97a0b
 			- *A* is amount of output per unit of capital (exogenous and ==constant==)
 	- **motion for total capital** #formula
-		- $\Delta k = s \cdot Y - \delta K$
+		- $\Delta K = s \cdot Y - \delta K$
 			- $s \cdot Y$ is the investment
 			- $\delta K$ is the depreciation
-			- Divid
+			- Dividing by *K* and since $Y = A \cdot K$:
+				-

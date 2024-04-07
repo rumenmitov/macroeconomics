@@ -4,9 +4,9 @@
 	- $i = 0 = (\delta + n) \cdot k$
 		- $\delta k$ investment to replace capital as it wears down
 		- $nk$ investment to equip new workers
--
-- $\Delta k = s \cdot f(k) - (\delta + n) \cdot k$
-	- $(\delta + n)$ is the *break-even state*
+- **change in capital per worker (with population change)** #formula
+	- $\Delta k = s \cdot f(k) - (\delta + n) \cdot k$
+	-
 - # Efficiency
 	- $g = \frac{\Delta E}{E}$
 		- *E* is the efficiency

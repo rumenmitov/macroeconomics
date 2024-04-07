@@ -14,7 +14,7 @@
 	- ## Finding Golden Rule c*
 		- $c* = y* - i* = f(k*) - (\delta + n)k*$ #formula
 		- #+BEGIN_IMPORTANT
-		  c* is ==maximized== when: $MPK 
+		  c* is ==maximized== when: $MPK = \delta + n$.
 		  #+END_IMPORTANT
 - # Efficiency
 	- $g = \frac{\Delta E}{E}$

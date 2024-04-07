@@ -55,3 +55,5 @@
 					- #+BEGIN_NOTE
 					  If ==sA > δ==, income will grow forever. So, growth depends on investment.
 					  #+END_NOTE
+	- **manufacturing production function** #formula
+		- $Y = F[K, ]

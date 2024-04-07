@@ -1,0 +1,2 @@
+- **change of output growth** #formula
+	- $\frac{\Delta Y}{Y} = \alpha \frac{\Delta K}{K} + (1)

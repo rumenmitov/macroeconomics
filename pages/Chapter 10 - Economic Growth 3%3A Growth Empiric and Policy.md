@@ -5,4 +5,7 @@
 		- $(1 - \alpha) \frac{\Delta L}{L}$ is the contribution of labor
 		- $\frac{\Delta A}{A}$ is the ==Solow Residual==
 - # Evaluating the Savings Rate
-	- From $y = f(k) = (\delta + n + g) \cdot k \implies MPK - \delta
+	- #+BEGIN_IMPORTANT
+	  $y = f(k) = (\delta + n + g) \cdot k \implies MPK - \delta = n + g$
+	  #+END_IMPORTANT
+	- If ==MPK - δ

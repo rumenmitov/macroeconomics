@@ -48,5 +48,5 @@
 			- *A* is amount of output per unit of capital (exogenous and ==constant==)
 	- **investment** #formula
 		- $I = s \cdot Y$
-	- **depreciation** #formula
-		-
+	- **motion for total capital** #formula
+		- $\Delta k = s \cdot Y - \delta K

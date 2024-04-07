@@ -12,7 +12,6 @@
 		- $\Delta k = s \cdot f(k) - (\delta + n) \cdot k$
 	- {{renderer excalidraw, excalidraw-2024-04-07-15-33-57}}
 	- ## Finding Golden Rule c*
-	  collapsed:: true
 		- $c* = y* - i* = f(k*) - (\delta + n)k*$ #formula
 		- #+BEGIN_IMPORTANT
 		  c* is ==maximized== when: $MPK = \delta + n$.
@@ -34,3 +33,8 @@
 	- **break-even investment** #formula
 		- break-even investment = $(\delta + n + g)k$
 			- $gk$ investment required for the new effective workers
+	- ## Finding Golden Rule c*
+		- $c* = y* - i* = f(k*) - (\delta + n + g)k*$ #formula
+		- #+BEGIN_IMPORTANT
+		  c* is ==maximized== when: $MPK = \delta + n + g$.
+		  #+END_IMPORTANT

@@ -40,4 +40,6 @@
 		  #+END_IMPORTANT
 - # Two-Sector Model
 	- Two sectors: manufacturing firms and universities
-	-
+	- ## Assumptions
+		- MPK is constant
+	- **production function** #formu

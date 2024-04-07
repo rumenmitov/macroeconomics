@@ -1,7 +1,8 @@
 - **rate of population growth, n** #formula
 	- $n = \frac{\Delta L}{L}$
 - **break-even investment** #formula
-	- $i = 0 = \delta + n)
+	- $i = 0 = (\delta + n) \cdot k$
+		- $\delta k$ investment to r
 - $\Delta k = s \cdot f(k) - (\delta + n) \cdot k$
 	- $(\delta + n)$ is the *break-even state*
 - # Efficiency

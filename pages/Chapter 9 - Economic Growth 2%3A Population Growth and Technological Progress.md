@@ -52,4 +52,6 @@
 			- $\delta K$ is the depreciation
 			- Dividing by *K* and since $Y = A \cdot K$:
 				- $\frac{\Delta K}{K} = s \cdot A - \delta$
-				-
+					- #+BEGIN_NOTE
+					  If ==sA > δ==, income will grow forever. So, growth depends on investment.
+					  #+END_NOTE

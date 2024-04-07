@@ -12,7 +12,10 @@
 		- $\Delta k = s \cdot f(k) - (\delta + n) \cdot k$
 	- {{renderer excalidraw, excalidraw-2024-04-07-15-33-57}}
 	- ## Finding Golden Rule c*
-		- $c*
+		- $c* = y* - i* = f(k*) - (\delta + n)k*$ #formula
+		- #+BEGIN_IMPORTANT
+		  c* is ==maximized== when: $MPK 
+		  #+END_IMPORTANT
 - # Efficiency
 	- $g = \frac{\Delta E}{E}$
 		- *E* is the efficiency

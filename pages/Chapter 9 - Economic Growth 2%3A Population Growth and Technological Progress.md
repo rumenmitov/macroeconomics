@@ -1,3 +1,4 @@
+-
 - $\frac{\Delta L}{L} = n$
 - $\Delta k = s \cdot f(k) - (\delta + n) \cdot k$
 	- $(\delta + n)$ is the *break-even state*

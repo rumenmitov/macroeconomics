@@ -1,5 +1,5 @@
--
-- $\frac{\Delta L}{L} = n$
+- **rate of population growth, n** #formula
+	- $n = \frac{\Delta L}{L}$
 - $\Delta k = s \cdot f(k) - (\delta + n) \cdot k$
 	- $(\delta + n)$ is the *break-even state*
 - # Efficiency

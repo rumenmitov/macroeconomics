@@ -51,4 +51,5 @@
 			- $s \cdot Y$ is the investment
 			- $\delta K$ is the depreciation
 			- Dividing by *K* and since $Y = A \cdot K$:
+				- $\frac{\Delta K}{K} = s \cdot A - \delta$
 				-

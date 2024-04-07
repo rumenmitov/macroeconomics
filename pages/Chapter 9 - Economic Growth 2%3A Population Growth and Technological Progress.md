@@ -46,4 +46,7 @@
 		- $Y = A \cdot K$
 		  id:: 6612abec-699f-4aaf-b301-05c7efe97a0b
 			- *A* is amount of output per unit of capital (exogenous and ==constant==)
-	- **investment
+	- **investment** #formula
+		- $I = s \cdot Y$
+	- **depreciation** #formula
+		-

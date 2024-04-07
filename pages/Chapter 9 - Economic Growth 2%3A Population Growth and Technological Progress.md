@@ -30,3 +30,6 @@
 		- $k = \frac{K}{L \times E}$
 	- **saving and investment per effective worker** #formula
 		- $s \cdot y = s \cdot f(k)$
+	- **break-even investment** #formula
+		- break-even investment = ()
+		- **output per effective worker** #formula

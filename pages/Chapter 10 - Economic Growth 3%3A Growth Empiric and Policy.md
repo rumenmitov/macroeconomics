@@ -6,6 +6,6 @@
 		- $\frac{\Delta A}{A}$ is the ==Solow Residual==
 - # Evaluating the Savings Rate
 	- #+BEGIN_IMPORTANT
-	  $y = f(k) = (\delta + n + g) \cdot k \implies MPK - \delta = n + g$
+	  $y* = f(k*) = (\delta + n + g) \cdot k* \implies MPK - \delta = n + g$
 	  #+END_IMPORTANT
-	- If ==MPK - δ
+	- If ==MPK - δ < n + g==, then economy is below c*

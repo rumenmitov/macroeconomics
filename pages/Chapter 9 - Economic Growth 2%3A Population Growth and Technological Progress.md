@@ -59,4 +59,4 @@
 		- $Y = F[K, (1 - u)E \times L]$
 			- *u* is the fraction of labor in research
 	- **research production function** #formula
-		-
+		- $\frac {Delta E = g \times u \times E$

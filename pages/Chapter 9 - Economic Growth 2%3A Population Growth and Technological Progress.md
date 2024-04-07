@@ -24,4 +24,8 @@
 		- Y = F(K, L \times E)
 			- L \times E is the number of effective workers
 	- **output per effective worker** #formula
-		- $y = \frac{}
+		- $y = \frac{Y}{L \times E}$
+		  id:: 6612a45f-c6f0-4080-8d7f-47230155c7ae
+	- **capital per effective worker** #formula
+		- $k = \frac{K}{L \times E}$
+-

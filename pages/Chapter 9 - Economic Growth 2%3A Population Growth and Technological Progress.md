@@ -56,4 +56,7 @@
 					  If ==sA > δ==, income will grow forever. So, growth depends on investment.
 					  #+END_NOTE
 	- **manufacturing production function** #formula
-		- $Y = F[K, ]
+		- $Y = F[K, (1 - u)E \times L]$
+			- *u* is the fraction of labor in research
+	- **research production function** #formula
+		-

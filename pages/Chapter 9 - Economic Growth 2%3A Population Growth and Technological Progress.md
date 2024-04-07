@@ -28,4 +28,5 @@
 		  id:: 6612a45f-c6f0-4080-8d7f-47230155c7ae
 	- **capital per effective worker** #formula
 		- $k = \frac{K}{L \times E}$
--
+	- **saving and investment per effective worker** #formula
+		- $s \cdot y = s \cdot f(k)$

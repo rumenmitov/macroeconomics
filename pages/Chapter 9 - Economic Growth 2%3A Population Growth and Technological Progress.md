@@ -31,5 +31,5 @@
 	- **saving and investment per effective worker** #formula
 		- $s \cdot y = s \cdot f(k)$
 	- **break-even investment** #formula
-		- break-even investment = ()
-		- **output per effective worker** #formula
+		- break-even investment = $(\delta + n + g)k$
+			- $kg$ is the

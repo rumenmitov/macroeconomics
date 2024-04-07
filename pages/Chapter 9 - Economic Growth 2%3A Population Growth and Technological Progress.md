@@ -23,5 +23,5 @@
 	- **Labor Augmenting Production Function** #formula
 		- Y = F(K, L \times E)
 			- L \times E is the number of effective workers
-	-
-	-
+	- **output per effective worker** #formula
+		- $y = \frac{}

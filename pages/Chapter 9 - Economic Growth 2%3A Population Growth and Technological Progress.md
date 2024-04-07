@@ -50,3 +50,4 @@
 		- $\Delta k = s \cdot Y - \delta K$
 			- $s \cdot Y$ is the investment
 			- $\delta K$ is the depreciation
+			- Divid

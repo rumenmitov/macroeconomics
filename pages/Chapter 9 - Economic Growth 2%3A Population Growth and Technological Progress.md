@@ -38,3 +38,6 @@
 		- #+BEGIN_IMPORTANT
 		  c* is ==maximized== when: $MPK = \delta + n + g$.
 		  #+END_IMPORTANT
+- # Two-Sector Model
+	- Two sectors: manufacturing firms and universities
+	-

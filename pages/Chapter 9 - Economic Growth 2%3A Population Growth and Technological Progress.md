@@ -2,7 +2,9 @@
 	- $n = \frac{\Delta L}{L}$
 - **break-even investment** #formula
 	- $i = 0 = (\delta + n) \cdot k$
-		- $\delta k$ investment to r
+		- $\delta k$ investment to replace capital as it wears down
+		- $nk$ investment to equip new workers
+-
 - $\Delta k = s \cdot f(k) - (\delta + n) \cdot k$
 	- $(\delta + n)$ is the *break-even state*
 - # Efficiency

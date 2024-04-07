@@ -8,4 +8,5 @@
 	- #+BEGIN_IMPORTANT
 	  $y* = f(k*) = (\delta + n + g) \cdot k* \implies MPK - \delta = n + g$
 	  #+END_IMPORTANT
-	- If ==MPK - δ < n + g==, then economy is below c*
+	- If ==MPK - δ < n + g==, then economy is below ==Golden Rule==, so ==saving rate, s, should be increased==.
+	- If ==MPK - δ > n + g==, then economy is above ==Golden Rule==, so ==saving rate, s, should be dedcreased==.

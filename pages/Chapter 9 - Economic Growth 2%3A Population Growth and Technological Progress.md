@@ -7,6 +7,7 @@
 - **change in capital per worker (with population change)** #formula
 	- $\Delta k = s \cdot f(k) - (\delta + n) \cdot k$
 - {{renderer excalidraw, excalidraw-2024-04-07-15-33-57}}
+-
 - # Efficiency
 	- $g = \frac{\Delta E}{E}$
 		- *E* is the efficiency

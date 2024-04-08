@@ -22,4 +22,6 @@
 	- ## Supply and Demand From the Short-Run to the Long-Run
 		- {{renderer excalidraw, excalidraw-2024-04-08-08-54-27}}
 		- **shocks** #definition
-			-
+			- exogenous changes in aggregate supply or demand
+			- temporarily ==push economy away from equilibrium==
+		-

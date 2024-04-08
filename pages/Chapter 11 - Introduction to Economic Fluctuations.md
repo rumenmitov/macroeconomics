@@ -1,0 +1,2 @@
+- **Okun's Law** #definition
+	-

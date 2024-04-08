@@ -18,4 +18,4 @@
 		  #+END_NOTE
 		- {{renderer excalidraw, excalidraw-2024-04-08-08-45-02}}
 		- In the ==long-run== output is determined by ==capital, labor, and technology level==, **not** on the price. Hence, the supply is ==fixed to a certain level==.
-		- In the ==short-run==, we assume that sticky prices are fixed to a certain price level. Firms are willing to sell as much
+		- In the ==short-run==, we assume that sticky prices are ==fixed to a certain price level==.

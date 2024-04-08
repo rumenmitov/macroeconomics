@@ -5,4 +5,5 @@
   #+END_NOTE
 - # Model of Aggregate Demand and Supply
 	- From [[Chapter 4 - The Monetary System]]: $M \cdot V = P \cdot Y$
-	- An ==increase in prices== causes a decrease in ==real-money balances== ($\frac{M}{P})
+	- An ==increase in prices== causes a decrease in ==real-money balances== ($\frac{M}{P}$), causing==decrease in demand==.
+	- {{renderer excalidraw, excalidraw-2024-04-08-08-34-00}}

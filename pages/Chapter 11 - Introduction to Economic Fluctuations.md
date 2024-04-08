@@ -14,5 +14,5 @@
 	- ## Supply
 		- From [[Chapter 3 - National Income]]: $Y(const) = F( K(const), L(const) )$
 		- #+BEGIN_NOTE
-		  Y(const) is the **full-employment** or **natural level of output**
+		  Y(const) is the **full-employment**(= natural rate of employment  or **natural level of output**, at which the economy's resources are fully employed.
 		  #+END_NOTE

@@ -12,4 +12,7 @@
 			- Graph is shifted by ==changes in the money supply (M)==.
 				- e.g. M↓, AD←
 	- ## Supply
-		- From [[Chapter 3 - National Income]]: Y(const) = F( K(const), L(const) )$
+		- From [[Chapter 3 - National Income]]: $Y(const) = F( K(const), L(const) )$
+		- #+BEGIN_NOTE
+		  Y(const) is the **full-employment** or **natural level of output**
+		  #+END_NOTE

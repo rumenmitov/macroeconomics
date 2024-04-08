@@ -16,4 +16,4 @@
 		- #+BEGIN_NOTE
 		  Y(const) is the **full-employment**(= natural rate of employment ≠ zero unemployment) or **natural level of output**, at which the economy's resources are fully employed.
 		  #+END_NOTE
-		-
+		- {{renderer excalidraw, excalidraw-2024-04-08-08-45-02}}

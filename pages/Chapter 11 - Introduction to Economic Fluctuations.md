@@ -24,4 +24,4 @@
 		- **shocks** #definition
 			- exogenous changes in aggregate supply or demand
 			- temporarily ==push economy away from equilibrium==
-		-
+			- alters production costs and affects

@@ -26,4 +26,5 @@
 			- alters production costs and affects the prices that firms charge (==price shocks==)
 		- {{renderer excalidraw, excalidraw-2024-04-08-09-03-40}}
 		- **stabilization policy** #definition
-			- policy actions aimed at reducing the short-term seve
+			- policy actions aimed at reducing the severity of short-term fluctuations
+		- {{renderer excalidraw, excalidraw-2024-04-08-09-10-00}}

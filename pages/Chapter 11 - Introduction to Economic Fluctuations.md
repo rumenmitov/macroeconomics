@@ -21,3 +21,5 @@
 		- In the ==short-run==, we assume that sticky prices are ==fixed to a certain price level==.
 	- ## Supply and Demand From the Short-Run to the Long-Run
 		- {{renderer excalidraw, excalidraw-2024-04-08-08-54-27}}
+		- **shocks** #definition
+			-

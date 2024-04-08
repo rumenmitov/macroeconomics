@@ -10,5 +10,5 @@
 	- ==Equilibrium:== PE = Y
 	- {{renderer excalidraw, excalidraw-2024-04-08-09-47-57}}
 	- #+BEGIN_IMPORTANT
-	  When **planned expenditure** is shifted (e.g. )
+	  When **planned expenditure** is shifted (e.g. higher government spending), the $\Delta Y > \Delta G$ (if we are sticking with the government example).
 	  #+END_IMPORTANT

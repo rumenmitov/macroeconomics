@@ -1,2 +1,3 @@
 - **Okun's Law** #definition
-	-
+	- the negative relationship between GDP and unemployment
+-

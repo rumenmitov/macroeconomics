@@ -25,3 +25,4 @@
 			- temporarily ==push economy away from equilibrium==
 			- alters production costs and affects the prices that firms charge (==price shocks==)
 		- {{renderer excalidraw, excalidraw-2024-04-08-09-03-40}}
+		- **stabilization

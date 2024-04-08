@@ -8,3 +8,4 @@
 		- G and T are fixed
 		- I is exogenous and fixed
 	- ==Equilibrium:== PE = Y
+	- {{renderer excalidraw, excalidraw-2024-04-08-09-47-57}}

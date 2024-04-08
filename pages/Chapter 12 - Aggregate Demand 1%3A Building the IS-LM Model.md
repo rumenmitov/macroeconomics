@@ -12,3 +12,4 @@
 	- #+BEGIN_IMPORTANT
 	  When **planned expenditure** is shifted (e.g. higher government spending), then $\Delta Y > \Delta G$ (if we are sticking with the government example). This is because higher government spending creates more jobs, thus increasing the disposable income of households and their respective ==demand==.
 	  #+END_IMPORTANT
+	- ##

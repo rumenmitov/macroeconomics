@@ -9,3 +9,6 @@
 		- I is exogenous and fixed
 	- ==Equilibrium:== PE = Y
 	- {{renderer excalidraw, excalidraw-2024-04-08-09-47-57}}
+	- #+BEGIN_IMPORTANT
+	  When **planned expenditure** is shifted (e.g. )
+	  #+END_IMPORTANT

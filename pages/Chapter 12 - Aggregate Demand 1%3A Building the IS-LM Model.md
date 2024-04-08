@@ -7,3 +7,4 @@
 	- ## Assumptions
 		- G and T are fixed
 		- I is exogenous and fixed
+	- ==Equilibrium:== PE = Y

@@ -5,5 +5,5 @@
   #+END_NOTE
 - *Demand* side is controlled by: ==consumption (C), investment (I), and government spending (G)==.
 	- #+BEGIN_IMPORTANT
-	  It does not affect the quantity, b
+	  It does not determine the 
 	  #+END_IMPORTANT

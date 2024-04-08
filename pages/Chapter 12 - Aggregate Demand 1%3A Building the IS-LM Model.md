@@ -15,4 +15,4 @@
 	- ## Keynesian Multiplier
 		- $\Delta Y = \Delta C + \Delta I + \Delta G, \Delta I = 0$ (I is fixed)
 		- $\implies \Delta Y = (MPC \times \Delta Y) + \Delta G$, as T is fixed
-		-
+		- $\Delta Y = \frac{\Delta G}{1 - MPC}$

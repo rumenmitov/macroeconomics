@@ -10,7 +10,7 @@
 	- size of *trade deficit* = -NX
 - **net capital outflow** #definition #formula
 	- net outflow of ==loanable funds==
-	- net capital outflow = S - I
+	- net capital outflow (NCO) = S - I
 		- *S* is the national savings = ==Y - C - G==
 		- *I* is the investment
 	- S > I $\implies$ country is a ==net lender==

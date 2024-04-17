@@ -114,8 +114,8 @@
 		- total income after taxes
 		- $Y - T$
 	- **consumption function** #formula
-		- $C = C(Y - T) = ( C(const) + $
-			- *C* is both the ==consumption function== and the ==amount of consumption==
+		- $C = C(Y - T) = ( C(const) + MPC ) \times (Y - T)$
+			- *C* is both the ==consumption function== and the ==amount of planned consumption==
 	- **marginal propensity to consume** #definition
 		- the change in *consumption* when *disposable income* increases by \$1
 	- {{renderer excalidraw, excalidraw-2024-02-18-17-02-34}}

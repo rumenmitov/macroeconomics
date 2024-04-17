@@ -26,6 +26,9 @@
 			- ???
 			  logseq.order-list-type:: number
 	- ## Supply and Demand From the Short-Run to the Long-Run
+		- #+BEGIN_NOTE
+		  ==Planned expenditure== is the same as ==aggregate expenditure== which is ==GDP==.
+		  #+END_NOTE
 		- {{renderer excalidraw, excalidraw-2024-04-08-08-54-27}}
 		- **shocks** #definition
 			- exogenous changes in aggregate supply or demand

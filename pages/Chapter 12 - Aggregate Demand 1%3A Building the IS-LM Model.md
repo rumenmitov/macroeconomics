@@ -1,6 +1,6 @@
 # Keynesian Cross
 	- **planned expenditure, PE** #formula
-		- $PE = C + I + G = C( Y - T(const) ) + I(const) + G(const)$
+		- $PE = C + I + G = (C(const) + MPC)( Y - T(const) ) + I(const) + G(const)$
 			- *I* is the planned investment
 	- **actual expenditure, Y** #formula
 		- Y = real GDP

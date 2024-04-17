@@ -19,7 +19,8 @@
 		- In the ==long-run== output is determined by ==capital, labor, and technology level==, **not** on the price. Hence, the supply is ==fixed to a certain level==.
 		- In the ==short-run==, we assume that sticky prices are ==fixed to a certain price level==.
 		- ### Increasing the Money Supply
-			- logseq.order-list-type:: number
+			- Increase
+			  logseq.order-list-type:: number
 	- ## Supply and Demand From the Short-Run to the Long-Run
 		- {{renderer excalidraw, excalidraw-2024-04-08-08-54-27}}
 		- **shocks** #definition

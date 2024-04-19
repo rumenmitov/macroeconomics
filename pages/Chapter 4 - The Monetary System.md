@@ -23,7 +23,7 @@
 - **monetary policy** #definition
 	- control over *money supply*
 - **money demand** #definition
-	- how much money households want to hold
+	- how much liquid money households want to hold, as opposed to assets
 - **central bank** #definition
 	- controls *monetary policy*
 - **open-market operations** #definition

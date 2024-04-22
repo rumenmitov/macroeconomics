@@ -39,3 +39,6 @@
 	- #+BEGIN_PINNED
 	  __Example:__ If we are increasing G, then ==PE increase by the same amount as G==, and horizontal shift of the IS curve is $\Delta Y = \frac{\Delta G}{1 - MPC}$.
 	  #+END_PINNED
+- # Liquidity-Money (LM) Curve
+- ## Money Supply
+	- From

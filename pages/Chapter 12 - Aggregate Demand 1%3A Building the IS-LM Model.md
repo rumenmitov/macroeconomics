@@ -32,5 +32,8 @@
 	- {{renderer excalidraw, excalidraw-2024-04-22-12-47-00}}
 	- IS curve says that ==the lower the interest rate, the higher the income==.
 	- #+BEGIN_NOTE
-	  When the ==planned expenditure curve== is shifted, there is a corresponding shift in the ==IS curve==. The shift is in the 
+	  When the ==planned expenditure curve== is shifted, there is a corresponding shift in the ==IS curve==. The shift is in the ==IS curve== is equal to the ==Keynesian Multiplier== of the variable we are changing.
 	  #+END_NOTE
+	- #+BEGIN_EXAMPLE
+	  If we are increasing G, then ==PE increase 
+	  #+END_EXAMPLE

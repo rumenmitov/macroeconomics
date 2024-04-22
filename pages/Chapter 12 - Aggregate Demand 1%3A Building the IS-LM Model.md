@@ -46,4 +46,6 @@
 		- We assume that the ==real money balance supply== is fixed.
 	- The demand for (liquid) money is ==negatively correlated== to the interest rate.
 	- {{renderer excalidraw, excalidraw-2024-04-22-13-15-55}}
--
+- #+BEGIN_NOTE
+  \Delta r is ==inversely proportional== to \Delta M.
+  #+END_NOTE

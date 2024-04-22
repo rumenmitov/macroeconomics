@@ -41,4 +41,4 @@
 	  #+END_PINNED
 - # Liquidity-Money (LM) Curve
 - ## Money Supply
-	- Like in ((money suppl))
+	- Like in

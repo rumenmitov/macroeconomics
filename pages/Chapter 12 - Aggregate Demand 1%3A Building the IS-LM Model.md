@@ -23,6 +23,7 @@
 		- ### Decrease in Taxation
 			- $\Delta Y = MPC \times (\Delta Y - \Delta T) + \Delta I + \Delta G$
 				- only $\Delta T \neq 0 , \Delta Y \neq 0$
+			- $\Delta PE = MPC \times \Delta T$ #formula
 			- $\Delta Y (1 - MPC) = -MPC \times \Delta T$
 			- $\Delta Y =\frac{-MPC}{1-MPC} \times \Delta T$ #formula
 			- #+BEGIN_NOTE

@@ -31,3 +31,4 @@
 	- $Y = C(Y - T_{const}) + I(r) + G$ #formula
 	- {{renderer excalidraw, excalidraw-2024-04-22-12-47-00}}
 	- IS curve says that ==the lower the interest rate, the higher the income==.
+-

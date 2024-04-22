@@ -21,4 +21,5 @@
 				- It is ==always greater than 1==, since ==MPC < 1==.
 		- ### Decrease in Taxation
 			- $\Delta Y = MPC \times (\Delta Y - \Delta T) + \Delta I + \Delta G$
-				- only $\Delta T \neq 0 , \Delta Y \ne$
+				- only $\Delta T \neq 0 , \Delta Y \neq 0$
+			- \Delta Y =

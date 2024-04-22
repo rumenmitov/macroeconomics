@@ -16,6 +16,7 @@
 		- ### Government Spending Increases
 			- $\Delta Y = \Delta C + \Delta I + \Delta G, \Delta I = 0$ (I is fixed)
 			- $\implies \Delta Y = (MPC \times \Delta Y) + \Delta G$, as T is fixed
+			- $\Delta PE = \Delta G$ #formula
 			- $\Delta Y = \frac{\Delta G}{1 - MPC}$ #formula
 			- Keynesian Multiplier = $\frac{1}{1 - MPC}$ #formula
 				- It is ==always greater than 1==, since ==MPC < 1==.

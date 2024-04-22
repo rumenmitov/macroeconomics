@@ -28,4 +28,5 @@
 			  This multiplier does not have to be greater than one.
 			  #+END_NOTE
 - # Investment-Savings (IS) Curve
-	- $Y = C(Y -
+	- $Y = C(Y - T_{const}) + I(r) + G$ #formula
+	-

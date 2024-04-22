@@ -27,3 +27,5 @@
 			- #+BEGIN_NOTE
 			  This multiplier does not have to be greater than one.
 			  #+END_NOTE
+- # Investment-Savings (IS) Curve
+	- $Y = C(Y -

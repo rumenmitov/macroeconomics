@@ -29,4 +29,4 @@
 			  #+END_NOTE
 - # Investment-Savings (IS) Curve
 	- $Y = C(Y - T_{const}) + I(r) + G$ #formula
-	-
+		-

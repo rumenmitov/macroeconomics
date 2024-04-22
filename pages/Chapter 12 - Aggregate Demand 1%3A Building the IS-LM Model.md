@@ -41,4 +41,6 @@
 	  #+END_PINNED
 - # Liquidity-Money (LM) Curve
 - ## Money Supply
-	- Like in ((66072573-d389-482b-a595-5f7fc8088e43)): $\frac{M}{P}^s = \frac{M_const}{P}
+	- Like in ((66072573-d389-482b-a595-5f7fc8088e43)):
+		- $(\frac{M}{P})^s = \frac{M_{const}}{P_{const}}$
+		-

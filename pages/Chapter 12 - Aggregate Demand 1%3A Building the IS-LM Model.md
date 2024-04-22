@@ -24,3 +24,6 @@
 				- only $\Delta T \neq 0 , \Delta Y \neq 0$
 			- $\Delta Y (1 - MPC) = -MPC \times \Delta T$
 			- $\Delta Y =\frac{-MPC}{1-MPC} \times \Delta T$ #formula
+			- #+BEGIN_NOTE
+			  This multiplier does not have to be greater than one.
+			  #+END_NOTE

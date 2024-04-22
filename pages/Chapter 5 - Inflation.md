@@ -14,6 +14,7 @@
 	- purchasing power of money supply
 	- real money balance = $\frac{M}{P}$
 - **money demand** #definition #formula
+  id:: 66072573-d389-482b-a595-5f7fc8088e43
 	- the demand to hold currency as opposed to keeping money in deposits
 	- $(\frac{M}{P})^d = k \cdot Y$
 	- #+BEGIN_NOTE

@@ -20,4 +20,4 @@
 			- Keynesian Multiplier = $\frac{1}{1 - MPC}$ #formula
 				- It is ==always greater than 1==, since ==MPC < 1==.
 		- ### Decrease in Taxation
-			- $\Delta
+			- $\Delta Y = MPC \times (\Delta Y - \Delta T) + \Delta I + \Delta G

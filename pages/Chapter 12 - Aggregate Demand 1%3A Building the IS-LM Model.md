@@ -35,5 +35,5 @@
 	  When the ==planned expenditure curve== is shifted, there is a corresponding shift in the ==IS curve==. The shift is in the ==IS curve== is equal to the ==Keynesian Multiplier== of the variable we are changing.
 	  #+END_NOTE
 	- #+BEGIN_EXAMPLE
-	  If we are increasing G, then ==PE increase 
+	  If we are increasing G, then PE increase by the same amount as G==, and horizontal shift of the IS curve is $\Delta Y = \frac{\Delta G}{1 - MPC}$.
 	  #+END_EXAMPLE

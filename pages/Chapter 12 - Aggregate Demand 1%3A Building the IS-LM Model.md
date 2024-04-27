@@ -40,18 +40,22 @@
 	  __Example:__ If we are increasing G, then ==PE increase by the same amount as G==, and horizontal shift of the IS curve is $\Delta Y = \frac{\Delta G}{1 - MPC}$.
 	  #+END_PINNED
 - # Liquidity-Money (LM) Curve
-- ## Money Supply
-	- Like in ((66072573-d389-482b-a595-5f7fc8088e43)):
-		- $(\frac{M}{P})^s = \frac{M_{const}}{P_{const}}$
-		- We assume that the ==real money balance supply== is fixed.
-	- The demand for (liquid) money is ==negatively correlated== to the interest rate.
-		- $L(r) = (\frac{M}{P})^d$
-	- {{renderer excalidraw, excalidraw-2024-04-22-13-15-55}}
-- #+BEGIN_NOTE
-  \Delta r is ==inversely proportional== to \Delta M.
-  #+END_NOTE
-- ## Deriving the LM curve
-	- {{renderer excalidraw, excalidraw-2024-04-27-22-10-27}}
-- ## Shifting the LM Curve
-	- {{renderer excalidraw, excalidraw-2024-04-27-22-18-47}}
-	-
+	- ## Money Supply
+	  collapsed:: true
+		- Like in ((66072573-d389-482b-a595-5f7fc8088e43)):
+			- $(\frac{M}{P})^s = \frac{M_{const}}{P_{const}}$
+			- We assume that the ==real money balance supply== is fixed.
+		- The demand for (liquid) money is ==negatively correlated== to the interest rate.
+			- $L(r) = (\frac{M}{P})^d$
+		- {{renderer excalidraw, excalidraw-2024-04-22-13-15-55}}
+	- #+BEGIN_NOTE
+	  \Delta r is ==inversely proportional== to \Delta M.
+	  #+END_NOTE
+	- ## Deriving the LM curve
+	  collapsed:: true
+		- {{renderer excalidraw, excalidraw-2024-04-27-22-10-27}}
+	- ## Shifting the LM Curve
+	  collapsed:: true
+		- {{renderer excalidraw, excalidraw-2024-04-27-22-18-47}}
+- # Short-Run IS-LM Curve
+	- To find the

@@ -50,6 +50,8 @@
 - #+BEGIN_NOTE
   \Delta r is ==inversely proportional== to \Delta M.
   #+END_NOTE
--
-- {{renderer excalidraw, excalidraw-2024-04-27-22-10-27}}
--
+- ## Deriving the LM curve
+	- {{renderer excalidraw, excalidraw-2024-04-27-22-10-27}}
+- ## Shifting the LM Curve
+	- {{renderer excalidraw, excalidraw-2024-04-27-22-18-47}}
+	-

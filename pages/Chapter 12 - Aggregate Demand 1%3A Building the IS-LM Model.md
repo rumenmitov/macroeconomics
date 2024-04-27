@@ -58,4 +58,6 @@
 	  collapsed:: true
 		- {{renderer excalidraw, excalidraw-2024-04-27-22-18-47}}
 - # Short-Run IS-LM Curve
-	- To find the
+	- To find the ==equilibrium==:
+	  id:: 662d5fd1-1f3a-4635-99f6-6ba6678470d7
+		- $Y = C(Y - T) + I(r) + G

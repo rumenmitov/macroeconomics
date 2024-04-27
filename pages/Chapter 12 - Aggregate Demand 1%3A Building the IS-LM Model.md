@@ -60,4 +60,6 @@
 - # Short-Run IS-LM Curve
 	- To find the ==equilibrium==:
 	  id:: 662d5fd1-1f3a-4635-99f6-6ba6678470d7
-		- $Y = C(Y - T) + I(r) + G
+		- $Y = C( Y - T(const) ) + I(r) + G(const)$
+		- $\frac{M(const)}{P(const)} = L(r, Y)$
+		-

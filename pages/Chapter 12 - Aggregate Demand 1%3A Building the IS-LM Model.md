@@ -41,7 +41,6 @@
 	  #+END_PINNED
 - # Liquidity-Money (LM) Curve
 	- ## Money Supply
-	  collapsed:: true
 		- Like in ((66072573-d389-482b-a595-5f7fc8088e43)):
 			- $(\frac{M}{P})^s = \frac{M_{const}}{P_{const}}$
 			- We assume that the ==real money balance supply== is fixed.
@@ -52,10 +51,8 @@
 	  \Delta r is ==inversely proportional== to \Delta M.
 	  #+END_NOTE
 	- ## Deriving the LM curve
-	  collapsed:: true
 		- {{renderer excalidraw, excalidraw-2024-04-27-22-10-27}}
 	- ## Shifting the LM Curve
-	  collapsed:: true
 		- {{renderer excalidraw, excalidraw-2024-04-27-22-18-47}}
 - # Short-Run IS-LM Curve
 	- To find the ==equilibrium==:

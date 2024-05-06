@@ -9,4 +9,4 @@
 	- {{renderer excalidraw, excalidraw-2024-05-06-11-17-36}}
 - # Pigou Effect
 	- **pigou effect** #definition
-	-
+		- \uparrow P \implies \uparrow Y, hence

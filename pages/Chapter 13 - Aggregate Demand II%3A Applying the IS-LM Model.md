@@ -9,6 +9,6 @@
 	- {{renderer excalidraw, excalidraw-2024-05-06-11-17-36}}
 - # Pigou Effect
 	- **pigou effect** #definition
-		- \uparrow P \implies \uparrow Y, hence wealth increases
+		- \downarrow P \implies \uparrow Y, hence wealth increases
 		- when people have ==more wealth== they tend to ==consume more== (\uparrow C)
-		- IS shifts right
+		- ==IS shifts right==

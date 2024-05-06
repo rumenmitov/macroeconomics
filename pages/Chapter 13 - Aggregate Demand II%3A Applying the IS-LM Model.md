@@ -5,3 +5,5 @@
 	- {{renderer excalidraw, excalidraw-2024-05-06-10-58-54}}
 	- The AD Curve is shifted when there is a shift in anything ==except the price level==.
 	- {{renderer excalidraw, excalidraw-2024-05-06-11-05-28}}
+- # IS-LM and AD-AS (Short and Long Run)
+	- {{renderer excalidraw, excalidraw-2024-05-06-11-17-36}}

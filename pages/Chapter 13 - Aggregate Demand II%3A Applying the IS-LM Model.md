@@ -11,4 +11,4 @@
 	- **pigou effect** #definition
 		- \uparrow P \implies \uparrow Y, hence wealth increases
 		- when people have ==more wealth== they tend to ==consume more== (\uparrow C)
-		-
+		- IS shifts right

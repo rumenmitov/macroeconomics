@@ -18,5 +18,6 @@
   logseq.order-list-type:: number
 - c, plug into formula
   logseq.order-list-type:: number
-- $\frac{cr + 1}{cr + rr} = m = $
+- $\frac{cr + 1}{cr + rr} = m = 2.5$
   logseq.order-list-type:: number
+- logseq.order-list-type:: number

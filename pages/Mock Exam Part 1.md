@@ -12,5 +12,5 @@
   logseq.order-list-type:: number
   => r = 
   => S =
-- MPK = \alpha \times A \times
+- MPK = \alpha \times A \times $\frac{L}{K}^{1 - \alpha}$ =
   logseq.order-list-type:: number

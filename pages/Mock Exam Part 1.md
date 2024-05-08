@@ -14,5 +14,5 @@
   => S =
 - MPK = \alpha \times A \times $\frac{L}{K}^{1 - \alpha}$ = 50
   logseq.order-list-type:: number
-- MPL = real wage !!!,
+- MPL = real wage !!!, MPK = real rental price !!!
   logseq.order-list-type:: number

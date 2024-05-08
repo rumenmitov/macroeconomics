@@ -22,6 +22,7 @@
   logseq.order-list-type:: number
 - a => ==open-market purchases== means government issuing bonds with 0% interest, which the Fed then buys with newly minted money.
   logseq.order-list-type:: number
-- Quantity equation: M \times V = P \times Y
+- Quantity equation: M \times V = P \times Y, after rearranging => d
   logseq.order-list-type:: number
   id:: 663b537f-8cc3-45e6-948e-03153e5f6539
+- logseq.order-list-type:: number

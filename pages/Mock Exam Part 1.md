@@ -20,5 +20,5 @@
   logseq.order-list-type:: number
 - $\frac{cr + 1}{cr + rr} = m = 2.5$
   logseq.order-list-type:: number
-- a =>
+- a => ==open-market purchases== means government issuing bonds with 0% interest
   logseq.order-list-type:: number

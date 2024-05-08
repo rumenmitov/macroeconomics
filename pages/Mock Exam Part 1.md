@@ -2,4 +2,6 @@
   logseq.order-list-type:: number
 - Gross domestic product.
   logseq.order-list-type:: number
+- $6.50
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number

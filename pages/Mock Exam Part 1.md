@@ -8,3 +8,5 @@
   logseq.order-list-type:: number
 - S = I = Y - C - T = 500
   logseq.order-list-type:: number
+- Y = C + I + G +NX => 5000
+  logseq.order-list-type:: number

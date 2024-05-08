@@ -4,4 +4,5 @@
   logseq.order-list-type:: number
 - $6.50
   logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- c, because quantity is kept the same.
+  logseq.order-list-type:: number

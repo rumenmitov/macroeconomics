@@ -12,3 +12,5 @@
   logseq.order-list-type:: number
   => r = 
   => S =
+- MPK =
+  logseq.order-list-type:: number

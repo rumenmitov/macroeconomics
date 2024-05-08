@@ -12,5 +12,5 @@
   logseq.order-list-type:: number
   => r = 
   => S =
-- MPK =
+- MPK = \alpha \times A \times
   logseq.order-list-type:: number

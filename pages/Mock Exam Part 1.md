@@ -16,3 +16,6 @@
   logseq.order-list-type:: number
 - MPL = real wage !!!, MPK = real rental price !!!
   logseq.order-list-type:: number
+- c, plug into formula
+  logseq.order-list-type:: number
+- logseq.order-list-type:: number

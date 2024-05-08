@@ -25,4 +25,6 @@
 - Quantity equation: M \times V = P \times Y, after rearranging => d
   logseq.order-list-type:: number
   id:: 663b537f-8cc3-45e6-948e-03153e5f6539
+- increases by 3% => c
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number

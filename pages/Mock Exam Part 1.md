@@ -6,3 +6,5 @@
   logseq.order-list-type:: number
 - c, because quantity is kept the same.
   logseq.order-list-type:: number
+- Y=C+I+G+NX
+  logseq.order-list-type:: number

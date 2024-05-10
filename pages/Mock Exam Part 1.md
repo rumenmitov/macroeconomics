@@ -27,4 +27,15 @@
   id:: 663b537f-8cc3-45e6-948e-03153e5f6539
 - increases by 3% => c
   logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- j
+  logseq.order-list-type:: number
+- j
+  logseq.order-list-type:: number
+- j
+  logseq.order-list-type:: number
+- j
+  logseq.order-list-type:: number
+- j
+  logseq.order-list-type:: number
+- $k = \frac{s}{\delta}^{\frac{1}{1-\alpha}}$
+  logseq.order-list-type:: number

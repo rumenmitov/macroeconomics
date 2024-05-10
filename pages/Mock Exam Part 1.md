@@ -37,5 +37,5 @@
   logseq.order-list-type:: number
 - j
   logseq.order-list-type:: number
-- $k = \frac{s}{\delta}^{\frac{1}{1-\alpha}}$
+- $k = \frac{s}{\delta}^{\frac{1}{1-\alpha}}$, a = 1/2
   logseq.order-list-type:: number

@@ -16,4 +16,4 @@
   ==adverse supply shock== means a decrease in supply
 - a
   logseq.order-list-type:: number
-  We need to increase the money supply, so that interest rate rises
+  We need to increase the money supply, so that interest rate rises, hence LM shifts right, counterbalancing the shift in the IS. ==WHY ARE

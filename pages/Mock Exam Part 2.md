@@ -55,4 +55,6 @@
   logseq.order-list-type:: number
   \Delta Y = 0.6 \times (\Delta Y + 200)
   \Delta Y = $\frac{120}{1 - 0.6}$ = 300
+- d
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number

@@ -57,4 +57,6 @@
   \Delta Y = $\frac{120}{1 - 0.6}$ = 300
 - d
   logseq.order-list-type:: number
+- ???
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number

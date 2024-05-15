@@ -47,4 +47,6 @@
   For an equilibrium to be reached, M must decrease. This can be done by selling bonds and will result in higher interest rates.
 - c ==WHY NOT PRICE LEVEL LIKE IN Q7???==
   logseq.order-list-type:: number
+- c
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number

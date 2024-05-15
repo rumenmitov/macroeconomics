@@ -49,4 +49,5 @@
   logseq.order-list-type:: number
 - c
   logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- d
+  logseq.order-list-type:: number

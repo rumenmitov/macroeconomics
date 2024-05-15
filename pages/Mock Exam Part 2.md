@@ -21,4 +21,6 @@
   logseq.order-list-type:: number
 - a
   logseq.order-list-type:: number
-  Y=
+  \Delta Y = (MPC \times \Delta Y) \times \Delta G
+  \Delta
+- logseq.order-list-type:: number

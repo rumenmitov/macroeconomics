@@ -51,4 +51,6 @@
   logseq.order-list-type:: number
 - d, Equilibrium income stays the same, since LM is vertical
   logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- c
+  logseq.order-list-type:: number
+  \Delta Y = 0.6 \times

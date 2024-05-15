@@ -14,4 +14,5 @@
 - b (see graph of Q5)
   logseq.order-list-type:: number
   ==adverse supply shock== means a decrease in supply
-- logseq.order-list-type:: number
+- a, why not b?
+  logseq.order-list-type:: number

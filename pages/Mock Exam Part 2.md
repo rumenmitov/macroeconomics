@@ -2,4 +2,6 @@
   logseq.order-list-type:: number
   C = (Y - T)
   I = Y - C - G - NX, I depends on more factors
+- c
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number

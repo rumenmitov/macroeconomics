@@ -42,4 +42,5 @@
   logseq.order-list-type:: number
 - b
   logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- For an equilibrium to be reached, M must decrease. This can be done by selling bonds and will result in
+  logseq.order-list-type:: number

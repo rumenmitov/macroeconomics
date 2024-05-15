@@ -27,5 +27,6 @@
   logseq.order-list-type:: number
   $\Delta Y = (\frac{2}{3} \times (\Delta Y - 0.5 \times \Delta Y)) + 10$
   $\Delta Y = (\frac{2}{3} \times (0.5 \times \Delta Y) + 10$
-- \Delta C = MPC \times
+- \Delta C = MPC \times (\Delta Y - \Delta T)
   logseq.order-list-type:: number
+  $\Delta C = \frac{2}{3} \times

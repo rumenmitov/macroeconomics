@@ -31,5 +31,7 @@
   logseq.order-list-type:: number
   \Delta C = MPC \times (\Delta Y - \Delta T)
   $\Delta C = \frac{2}{3} \times 7.5$
-- \Delta I = (1 - MPC) \times (\Delta Y - \Delta T)$
+- 2.5
   logseq.order-list-type:: number
+  \Delta I = (1 - MPC) \times (\Delta Y - \Delta T)$
+  $\Delta I = \frac{1}{3} \times 7.5

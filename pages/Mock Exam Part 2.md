@@ -8,4 +8,4 @@
   logseq.order-list-type:: number
 - c
   logseq.order-list-type:: number
-  Classical dichotomy
+  Classical dichotomy says that ==nominal variables==

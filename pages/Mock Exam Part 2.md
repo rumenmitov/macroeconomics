@@ -14,5 +14,6 @@
 - b (see graph of Q5)
   logseq.order-list-type:: number
   ==adverse supply shock== means a decrease in supply
-- a, why not b? dec. in demand shifts short run equilibrium to the left of the LRAS, so to bring it to
+- a
   logseq.order-list-type:: number
+  We need to decreas

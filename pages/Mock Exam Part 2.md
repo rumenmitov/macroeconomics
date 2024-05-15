@@ -38,4 +38,6 @@
 - a
   logseq.order-list-type:: number
   Higher interest rates, incentivizes people to keep their money in the bank, and thus not to invest it in stocks
+- d
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number

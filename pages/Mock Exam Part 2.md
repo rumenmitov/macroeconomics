@@ -19,4 +19,5 @@
   We need to increase the money supply, so that interest rate rises, hence LM shifts right, counterbalancing the shift in the IS. ==WHY DO PRICES CHANGE???==
 - c
   logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- a
+  logseq.order-list-type:: number

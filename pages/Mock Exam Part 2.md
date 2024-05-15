@@ -16,4 +16,4 @@
   ==adverse supply shock== means a decrease in supply
 - a
   logseq.order-list-type:: number
-  We need to decreas
+  We need to increase the money supply, so that interest rate rises

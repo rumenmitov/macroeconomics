@@ -37,4 +37,4 @@
   $\Delta I = \frac{1}{3} \times 7.5$
 - a
   logseq.order-list-type:: number
-  Higher interest rates increase the cost of borrowing, thus investments need to have a higher return rate
+  Higher interest rates, incentivizes people to keep their money in the bank, and thus not to invest it in stocks

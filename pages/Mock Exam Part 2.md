@@ -23,5 +23,7 @@
   logseq.order-list-type:: number
   \Delta Y = (MPC \times \Delta Y) + \Delta G
   $\Delta Y = \frac{\Delta G}{1 - MPC}$
-- \Delta Y = (MPC \times (\Delta Y - t \times \Delta Y))
+- 4
   logseq.order-list-type:: number
+  $\Delta Y = (MPC \times (\Delta Y - 0.5 \times \Delta Y)) + 10$
+  $ \Delta Y = (MPC \times (\Delta Y - 0.5 \times \Delta Y)) + 10

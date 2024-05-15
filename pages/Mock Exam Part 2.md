@@ -21,6 +21,6 @@
   logseq.order-list-type:: number
 - a
   logseq.order-list-type:: number
-  \Delta Y = (MPC \times \Delta Y) \times \Delta G
-  \Delta
+  \Delta Y = (MPC \times \Delta Y) + \Delta G
+  $\Delta Y = \frac{\Delta G}{1 - MPC}
 - logseq.order-list-type:: number

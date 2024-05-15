@@ -42,5 +42,7 @@
   logseq.order-list-type:: number
 - b
   logseq.order-list-type:: number
-- For an equilibrium to be reached, M must decrease. This can be done by selling bonds and will result in
+- a
   logseq.order-list-type:: number
+  For an equilibrium to be reached, M must decrease. This can be done by selling bonds and will result in higher interest rates.
+- logseq.order-list-type:: number

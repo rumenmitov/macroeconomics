@@ -54,4 +54,4 @@
 - c
   logseq.order-list-type:: number
   \Delta Y = 0.6 \times (\Delta Y + 200)
-  \Delta Y = 1 - 0.6
+  \Delta Y = 120 =

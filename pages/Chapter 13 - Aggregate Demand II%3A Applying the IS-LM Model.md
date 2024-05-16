@@ -13,5 +13,6 @@
 		- when people have ==more wealth== they tend to ==consume more== (\uparrow C)
 		- ==IS shifts right==
 - # The Debt-Deflation Hypothesis
-	- **Debt-Deflation Hypothesis** #formula
-		- Prices fall suddenly, ==lower income==
+	- **Debt-Deflation Hypothesis** #definition
+		- Prices fall suddenly, ==lower income==, *real debt* rises
+		- Wealth is transferred

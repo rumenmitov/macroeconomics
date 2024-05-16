@@ -65,4 +65,6 @@
   logseq.order-list-type:: number
 - c
   logseq.order-list-type:: number
+- a
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number

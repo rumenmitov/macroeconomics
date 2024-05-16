@@ -15,4 +15,5 @@
 - # The Debt-Deflation Hypothesis
 	- **Debt-Deflation Hypothesis** #definition
 		- Prices fall suddenly, ==lower income==, *real debt* rises
-		- Wealth is transferred
+		- Wealth is transferred to ==creditors==
+		- Since ==creditors== are more frugal, ==overall consumption declines==

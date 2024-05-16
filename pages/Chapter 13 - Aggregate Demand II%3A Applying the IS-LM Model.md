@@ -12,5 +12,6 @@
 		- \downarrow P \implies \uparrow Y, hence wealth increases
 		- when people have ==more wealth== they tend to ==consume more== (\uparrow C)
 		- ==IS shifts right==
-- # The Debt Deflation Hypothesis
-	- **Debt-Deflation
+- # The Debt-Deflation Hypothesis
+	- **Debt-Deflation Hypothesis** #formula
+		-

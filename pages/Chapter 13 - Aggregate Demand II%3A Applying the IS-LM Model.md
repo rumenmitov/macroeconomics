@@ -14,4 +14,4 @@
 		- ==IS shifts right==
 - # The Debt-Deflation Hypothesis
 	- **Debt-Deflation Hypothesis** #formula
-		-
+		- Prices fall suddenly, ==lower income==

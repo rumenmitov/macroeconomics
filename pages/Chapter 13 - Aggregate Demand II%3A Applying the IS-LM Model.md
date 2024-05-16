@@ -13,4 +13,4 @@
 		- when people have ==more wealth== they tend to ==consume more== (\uparrow C)
 		- ==IS shifts right==
 - # The Debt Deflation Hypothesis
-	-
+	- **Debt-Deflation

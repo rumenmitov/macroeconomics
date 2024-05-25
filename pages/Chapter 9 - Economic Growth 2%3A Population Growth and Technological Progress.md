@@ -1,9 +1,7 @@
 # Population
 	- **rate of population growth, n** #formula
-	  collapsed:: true
 		- $n = \frac{\Delta L}{L}$
 	- **break-even investment** #formula
-	  collapsed:: true
 		- $i = 0 = (\delta + n) \cdot k$
 			- $\delta k$ investment to replace capital as it wears down
 			- $nk$ investment to equip new workers
